@@ -1,6 +1,6 @@
 {
   "name": "eat-n-split",
-  "homepage": "https://github.com/Nisha99-suyal/eat-split-bill.git",
+  "homepage": "https://github.com/Nisha99-suyal/split-bills.git",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
