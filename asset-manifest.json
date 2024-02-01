@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nisha99-suyal/eat-n-split.git/static/css/main.d9d31d21.css",
+    "main.js": "/Nisha99-suyal/eat-n-split.git/static/js/main.1008e83d.js",
+    "static/js/787.192a125a.chunk.js": "/Nisha99-suyal/eat-n-split.git/static/js/787.192a125a.chunk.js",
+    "index.html": "/Nisha99-suyal/eat-n-split.git/index.html",
+    "main.d9d31d21.css.map": "/Nisha99-suyal/eat-n-split.git/static/css/main.d9d31d21.css.map",
+    "main.1008e83d.js.map": "/Nisha99-suyal/eat-n-split.git/static/js/main.1008e83d.js.map",
+    "787.192a125a.chunk.js.map": "/Nisha99-suyal/eat-n-split.git/static/js/787.192a125a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d31d21.css",
+    "static/js/main.1008e83d.js"
+  ]
+}
